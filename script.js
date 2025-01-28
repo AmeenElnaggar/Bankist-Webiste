@@ -26,7 +26,7 @@ const dotsContainer = document.querySelector('.dots');
 // Functions
 //-----------
 
-// OpenModal
+// openModal
 const openModal = function (e) {
   e.preventDefault();
   modal.classList.remove('hidden');
