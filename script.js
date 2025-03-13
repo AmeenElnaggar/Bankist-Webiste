@@ -24,7 +24,7 @@ const slider = document.querySelector('.slider');
 const slideImages = document.querySelectorAll('.slide');
 const dotsContainer = document.querySelector('.dots');
 // Functions
-//-----------
+//----------
 
 // openModal
 const openModal = function (e) {
